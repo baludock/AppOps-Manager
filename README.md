@@ -4,3 +4,4 @@ Note: Verified working and tested on the POCO X6 Pro running Android 16.
 
 
 Those who are having suggestion to imporve please be feel to share
+This project really a open source, anyone can edit or share.
